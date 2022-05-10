@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{margin:0;padding:0}.app{background-color:#ccc;padding:10px}.app__list{list-style:none;display:flex;flex-direction:column;grid-gap:8px;gap:8px}.app__item{padding:5px;width:200px;border-radius:10px;opacity:.8;transition:padding-left .3s}.app__item:hover{padding-left:30px}
+/*# sourceMappingURL=main.de3cc111.chunk.css.map */
